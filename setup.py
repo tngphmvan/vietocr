@@ -18,7 +18,7 @@ setuptools.setup(
         "gdown>=4.4.0",
         "albumentations>=1.4.2",
         "lmdb>=1.0.0",
-        "scikit-image>=0.21.0",
+        "scikit-image==0.16.2",
         "pillow==6.2.2",
     ],
     classifiers=[
